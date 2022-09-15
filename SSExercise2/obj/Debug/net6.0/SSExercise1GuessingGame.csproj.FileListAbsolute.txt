@@ -1,0 +1,15 @@
+/Users/jeremijackson/Desktop/Repos/SelectionStatementsExercises/SSExercise2/obj/Debug/net6.0/SSExercise1GuessingGame.csproj.AssemblyReference.cache
+/Users/jeremijackson/Desktop/Repos/SelectionStatementsExercises/SSExercise2/obj/Debug/net6.0/SSExercise1GuessingGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeremijackson/Desktop/Repos/SelectionStatementsExercises/SSExercise2/obj/Debug/net6.0/SSExercise1GuessingGame.AssemblyInfoInputs.cache
+/Users/jeremijackson/Desktop/Repos/SelectionStatementsExercises/SSExercise2/obj/Debug/net6.0/SSExercise1GuessingGame.AssemblyInfo.cs
+/Users/jeremijackson/Desktop/Repos/SelectionStatementsExercises/SSExercise2/obj/Debug/net6.0/SSExercise1GuessingGame.csproj.CoreCompileInputs.cache
+/Users/jeremijackson/Desktop/Repos/SelectionStatementsExercises/SSExercise2/bin/Debug/net6.0/SSExercise2
+/Users/jeremijackson/Desktop/Repos/SelectionStatementsExercises/SSExercise2/bin/Debug/net6.0/SSExercise2.deps.json
+/Users/jeremijackson/Desktop/Repos/SelectionStatementsExercises/SSExercise2/bin/Debug/net6.0/SSExercise2.runtimeconfig.json
+/Users/jeremijackson/Desktop/Repos/SelectionStatementsExercises/SSExercise2/bin/Debug/net6.0/SSExercise2.dll
+/Users/jeremijackson/Desktop/Repos/SelectionStatementsExercises/SSExercise2/bin/Debug/net6.0/SSExercise2.pdb
+/Users/jeremijackson/Desktop/Repos/SelectionStatementsExercises/SSExercise2/obj/Debug/net6.0/SSExercise2.dll
+/Users/jeremijackson/Desktop/Repos/SelectionStatementsExercises/SSExercise2/obj/Debug/net6.0/refint/SSExercise2.dll
+/Users/jeremijackson/Desktop/Repos/SelectionStatementsExercises/SSExercise2/obj/Debug/net6.0/SSExercise2.pdb
+/Users/jeremijackson/Desktop/Repos/SelectionStatementsExercises/SSExercise2/obj/Debug/net6.0/SSExercise1GuessingGame.genruntimeconfig.cache
+/Users/jeremijackson/Desktop/Repos/SelectionStatementsExercises/SSExercise2/obj/Debug/net6.0/ref/SSExercise2.dll
